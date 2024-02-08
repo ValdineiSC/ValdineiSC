@@ -1,5 +1,11 @@
-###  Olá eu sou o Valdinei A S Chaves  👋
-- 🌱 Estudando Java
+###  Olá, eu sou o Valdinei A S Chaves  👋
+- 🌱 Estudando Java, Python, HTML, CSS e JavaScript.
+- Utilizo esse espaço para organizar e compartilhar meus projetos
+
+- ### Meu contato é:
+- 
+- valdineichaves@gmail.com
+- 
 - 😄 Ele/Dele
 
 
@@ -23,3 +29,4 @@
   <a href="https://www.linkedin.com/in/valdineichaves-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+![](https://media1.tenor.com/m/7koxhrYnkZIAAAAC/showtime-beetlejuice.gif)
