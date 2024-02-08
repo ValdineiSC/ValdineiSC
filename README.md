@@ -31,4 +31,4 @@ TECNOLOGIAS QUE MAIS USO
   <a href="https://www.linkedin.com/in/valdineichaves-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-[![(https://media3.giphy.com/media/RipfZWzjUDH25euMpM/giphy.gif?cid=ecf05e47lsswon16pljbtr374mdn5qooj1rdhoqp0gan4s12&ep=v1_gifs_related&rid=giphy.gif&ct=g)]
+
