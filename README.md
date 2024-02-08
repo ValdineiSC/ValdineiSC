@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdineisc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
-Tecnologias que mais uso
+### Tecnologias que mais uso
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
