@@ -3,9 +3,7 @@
 - Utilizo esse espaço para organizar e compartilhar meus projetos
 
 - ### Meu contato é:
-- 
 - valdineichaves@gmail.com
-- 
 - 😄 Ele/Dele
 
 
